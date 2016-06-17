@@ -1,2 +1,2 @@
 # Rachod
-Rachod project
+Le projet Rachod est un projet très ambitieux
